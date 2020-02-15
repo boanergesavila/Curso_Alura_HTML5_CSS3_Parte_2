@@ -43,6 +43,11 @@ nav a {
     margin: 0 1.5%;
     padding: 30px 20px;
     box-sizing: border-box; /*ajusta a conta dos pixels das caixas*/
+    /*border-color: #000000;
+    border-width: 2px;
+    border-style: solid;*/
+    border: 2px solid #000000;
+    border-radius: 10px;
 }
 
 .produtos h2 {
